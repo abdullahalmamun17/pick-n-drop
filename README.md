@@ -9,7 +9,7 @@
 
 # Live
 
-Live: [PicknDrop Live](https://github.com/facebook/create-react-app).
+Live: [PicknDrop Live](https://pickndrop-5beb1.web.app/).
 
 ## Run on Local Computer
 
