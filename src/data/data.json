@@ -2,7 +2,7 @@
     {
         "name": "Bike",
         "vehicleType": "bike",
-        "img": "https://png2.cleanpng.com/sh/70093abd24722a3ea3e025dc2c5c593a/L0KzQYm3V8E5N5p7kJH0aYP2gLBuTglidZJteZ92b4Tygn7qjB1xaZ9ARetqbXHrcX7CmvYuemIykdN2YXjkPb77TcExNZ50Rd94dHB1PbPwiBUuepJofZ8AYkTpQrW6WPQ5QZdnTpCCMEmzQ4SAVME2O2IASacAN0a7SIi6TwBvbz==/kisspng-yamaha-motor-company-yamaha-yzf-r1-yamaha-mt-10-mo-motor-bike-race-5b4f2d38d89fb6.7090337415319155768873.png"
+        "img": "https://i.ibb.co/WxZ2zQP/Kawasaki-Ninja-ZX25-R.jpg"
     },
     {
         "name": "Car",
@@ -17,6 +17,6 @@
     {
         "name": "Rail",
         "vehicleType": "rail",
-        "img": "https://raw.githubusercontent.com/abdullahalmamun17/images/main/rail.jpg"
+        "img": "https://i.ibb.co/L0XR728/rail.jpg"
     }
 ]
