@@ -1,4 +1,4 @@
-### `PICK n DROP`
+# Project Name ### `PICK n DROP`
 
 ### `Features`
 
@@ -8,7 +8,7 @@
 
 # Live
 
-### Live: [PicknDrop Live](https://pickndrop-5beb1.web.app/).
+### [PicknDrop Live](https://pickndrop-5beb1.web.app/)
 
 ## Run on Local Computer
 
