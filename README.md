@@ -6,10 +6,9 @@
 2. User Authentication
 3. Find Destination in Maps
 
-
 # Live
 
-Live: [PicknDrop Live](https://pickndrop-5beb1.web.app/).
+### Live: [PicknDrop Live](https://pickndrop-5beb1.web.app/).
 
 ## Run on Local Computer
 
